@@ -12,7 +12,7 @@ MyFlaskCCTV is a web application built with Flask, a Python web framework, that 
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/MyFlaskCCTV.git
+git clone https://github.com/ongyishen/MyFlaskCCTV.git
 ```
 2. Navigate to the project directory:
 ```shell
